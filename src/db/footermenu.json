@@ -1,0 +1,56 @@
+{
+    "ABOUT US" : [
+        {
+            "id":1,
+            "name": "About us"
+        },
+        {
+            "id":2,
+            "name": "Store location"
+        },
+        {
+            "id":3,
+            "name": "Contact"
+        },
+        {
+            "id":4,
+            "name": "Orders tracking"
+        }
+    ],
+    "USEFUL LINKS" : [
+        {
+            "id":1,
+            "name": "About us"
+        },
+        {
+            "id":2,
+            "name": "Store location"
+        },
+        {
+            "id":3,
+            "name": "Contact"
+        },
+        {
+            "id":4,
+            "name": "Orders tracking"
+        }
+    ],
+    "FOLLOW US" : [
+        {
+            "id":1,
+            "name": "About us"
+        },
+        {
+            "id":2,
+            "name": "Store location"
+        },
+        {
+            "id":3,
+            "name": "Contact"
+        },
+        {
+            "id":4,
+            "name": "Orders tracking"
+        }
+    ]
+}

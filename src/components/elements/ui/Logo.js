@@ -1,0 +1,10 @@
+export default function Logo(){
+
+    return(
+        <div className="col-xl-2 col-lg-2 col-md-6 col-4">
+            <div className="logo">
+                <a href="/"><img alt="" src="../img/logo/logo.png" width="95px" /></a>
+            </div>
+        </div>
+    );
+}

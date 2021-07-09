@@ -1,0 +1,96 @@
+{
+    "menu" : [
+        {
+            "id": 1,
+            "name": "home",
+            "url" : "/"
+        },
+        {
+            "id": 2,
+            "name": "Features",
+            "url" : "/features"
+        },
+        {
+            "id": 3,
+            "name": "Pricing",
+            "url" : "/pricing"
+        },
+        {
+            "id": 4,
+            "name": "FAQs",
+            "url" : "/faqs"
+        },
+        {
+            "id": 5,
+            "name": "About",
+            "url" : "/about"
+        }
+    ],
+    "sidemenu" : [
+        {
+            "id": 1,
+            "name": "search",
+            "img": "fas fa-search",
+            "url" : "/search"
+        },
+        {
+            "id": 2,
+            "name": "facebook",
+            "img": "fab fa-facebook",
+            "url" : "/facebook"
+        },
+        {
+            "id": 3,
+            "name": "instagram",
+            "img": "fab fa-instagram",
+            "url" : "http://instagram.com/ssu_nja"
+        }
+
+    ],
+    "category" : [
+        {
+            "id": 1,
+            "name": "fashion"
+        },
+        {
+            "id": 2,
+            "name": "men"
+        },
+        {
+            "id": 3,
+            "name": "women"
+        }
+    ],
+    "brand" : [
+        {
+            "id" : 1,
+            "name" : "AWS",
+            "img" : "fab fa-aws",
+            "content" : "AWS는 뭘까요"
+        },
+        {
+            "id" : 2,
+            "name" : "PHP",
+            "img" : "fab fa-php",
+            "content" : "PHP는 요즘 안써요"
+        },
+        {
+            "id" : 3,
+            "name" : "JAVA",
+            "img" : "fab fa-java",
+            "content" : "자바를 잡아"
+        },
+        {
+            "id" : 4,
+            "name" : "node JS",
+            "img" : "fab fa-node",
+            "content" : "node JS 시름"
+        },
+        {
+            "id" : 5   ,
+            "name" : "HTML5",
+            "img" : "fab fa-html5",
+            "content" : "HTML은 홈페이지를 만들때"
+        }
+    ]
+}
